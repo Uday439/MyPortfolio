@@ -40,7 +40,7 @@ const projects: Project[] = [
     image: 'https://images-platform.99static.com/zyGMRHflv2UltX6TmMzLnM5QvMc=/200x200:1800x1800/500x500/top/smart/99designs-contests-attachments/131/131244/attachment_131244073',
     tags: ['React.Js', 'Node.Js', 'BootStrap', 'Git'],
     githubUrl: 'https://github.com/Uday439/MyPortfolio.git',
-    liveUrl: 'https://github.com/Uday439/MyPortfolio.git',
+    liveUrl: 'https://udayp.netlify.app/',
     category: 'web'
   },
 

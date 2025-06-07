@@ -37,7 +37,7 @@ const About: React.FC = () => {
               Software Developer with a passion for creating exceptional user experiences
             </h3>
             <p className="text-gray-600 dark:text-gray-400 mb-6">
-              I'm a passionate Full Stack Developer based in Sphere Cloud Sphere Cloud Systems pvt Ltd. with over 1+ years of 
+              I'm a passionate Full Stack Developer in Sphere Cloud Systems pvt Ltd. with over 1+ years of 
               experience building web applications. I specialize in Python, Java, React.js, Node.js, Flutter, Django, Gen AI and modern 
               JavaScript frameworks , with a strong focus on creating responsive, accessible, 
               and performant user interfaces.

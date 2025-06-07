@@ -14,12 +14,14 @@ const skills: Skill[] = [
   { name: 'Streamlit', level: 80, category: 'frontend' },
   { name: 'Node.js', level: 75, category: 'backend' },
   { name: 'Express', level: 78, category: 'backend' },
-  { name: 'Langchain', level: 72, category: 'backend' },
+  { name: 'Python', level: 72, category: 'backend' },
+  { name: 'Django', level: 72, category: 'backend'},
   { name: 'PostgreSQL', level: 70, category: 'backend' },
   { name: 'Git', level: 85, category: 'other' },
   { name: 'Docker', level: 60, category: 'other' },
   { name: 'Gen AI', level: 55, category: 'other' },
   { name: 'UI/UX Design', level: 75, category: 'other' },
+  
 ];
 
 const SkillBar: React.FC<{ name: string; level: number }> = ({ name, level }) => {
