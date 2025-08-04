@@ -15,13 +15,13 @@ interface Project {
 const projects: Project[] = [
   {
     id: 1,
-    title: 'To-Do List App',
-    description: 'This is a cross-platform To-Do List application designed to help users efficiently manage their daily tasks with a sleek and intuitive interface. ensuring fast performance, real-time updates, and reliable data storage.',
-    image: 'https://plus.unsplash.com/premium_photo-1681487870238-4a2dfddc6bcb?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dG8lMjBkbyUyMGxpc3R8ZW58MHx8MHx8fDA%3D',
-    tags: ['Flutter', 'Django', 'PostgreSQL', 'Python', 'Docker','Git'],
-    githubUrl: 'https://github.com/Uday439/TODOLISTAPPLICATION',
-    liveUrl: 'https://github.com/Uday439/TODOLISTAPPLICATION',
-    category: 'mobile'
+    title: 'E-Commerce Website',
+    description: 'Developed a Dynamic and responsive user interface built using React and TypeScript.Clean and customizable design implemented with Tailwind CSS.A robust backend developed with Node.js and Express for handling APIs and business logic.Scalable data storage using MongoDB for managing products, users, and orders.',
+    image: 'https://i.pinimg.com/1200x/d9/c9/ca/d9c9ca3071f052121f8c70ccd8b0e89b.jpg',
+    tags: ['React.js', 'Node.js', 'MongoDB', 'JavaScript','Git'],
+    githubUrl: 'https://github.com/Uday439/shop-splendor',
+    liveUrl: 'https://github.com/Uday439/shop-splendor',
+    category: 'web'
   },
   {
     id: 2,
