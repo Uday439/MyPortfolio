@@ -78,18 +78,15 @@ const Experience: React.FC = () => {
         <div className="space-y-12">
           {experiences.map((experience, index) => (
             <div key={experience.id} className="relative">
-              {/* Timeline line */}
               {index < experiences.length - 1 && (
                 <div className="absolute left-6 top-16 w-0.5 h-full bg-gray-300 dark:bg-gray-600"></div>
               )}
               
               <div className="flex items-start space-x-6">
-                {/* Timeline dot */}
                 <div className="flex-shrink-0 w-12 h-12 bg-blue-600 dark:bg-blue-500 rounded-full flex items-center justify-center">
                   <Building className="w-6 h-6 text-white" />
                 </div>
 
-                {/* Content */}
                 <div className="flex-1 bg-gray-50 dark:bg-gray-800 rounded-lg p-6 shadow-sm hover:shadow-md transition-shadow">
                   <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-4">
                     <div>

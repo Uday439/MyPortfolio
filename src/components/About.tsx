@@ -1,6 +1,6 @@
 import React from 'react';
 import { Code, Coffee, Laptop, Sparkles } from 'lucide-react';
-import UkIMG from '../UkIMG.jpg';
+import Kiran from '../UkIMG.jpg';
 
 const About: React.FC = () => {
   return (
@@ -21,7 +21,7 @@ const About: React.FC = () => {
 
   {/* Image (perfectly overlaps background card) */}
   <img
-    src={UkIMG}
+    src={Kiran}
     alt="Working on laptop"
     className="absolute inset-0 w-full h-full object-cover rounded-lg shadow-xl z-10"
   />
