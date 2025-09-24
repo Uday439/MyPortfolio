@@ -1,6 +1,6 @@
 import React from 'react';
 import { Code, Coffee, Laptop, Sparkles } from 'lucide-react';
-import Kiran from '../UkIMG.jpg';
+import Kiran from '../iam_uday.png';
 
 const About: React.FC = () => {
   return (

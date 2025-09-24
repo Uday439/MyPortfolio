@@ -1,7 +1,7 @@
 import React from 'react';
 import { ArrowDown, FileText, Github, Linkedin, Twitter } from 'lucide-react';
 import Uday from '../Uday.jpg';
-import Resume from '../Udaykiran-Soft-Dev.pdf'
+import Resume from '../UDAYKIRAN - Soft-Dev.pdf'
 
 const Hero: React.FC = () => {
   return (
